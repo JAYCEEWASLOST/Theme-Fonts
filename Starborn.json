@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Starborn",
+  "previewText": "Starborn is a playful handwritten-style font for Discord Revenge themes.",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/JAYCEEWASLOST/Theme-Fonts/main/Starborn/Starborn.ttf"
+  }
+}
