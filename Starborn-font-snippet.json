@@ -1,0 +1,10 @@
+{
+  "spec": 1,
+  "name": "Starborn",
+  "previewText": "Starborn is a handwritten font with playful uppercase and lowercase letters.",
+  "main": {
+    "ggsans-Normal": "https://github.com/JAYCEEWASLOST/Theme-Fonts/raw/main/Starborn.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/JAYCEEWASLOST/Theme-Fonts/raw/main/Starborn.ttf?raw=1",
+    "ggmono-Normal": "https://github.com/JAYCEEWASLOST/Theme-Fonts/raw/main/Starborn.ttf?raw=1"
+  }
+}
