@@ -1,0 +1,20 @@
+{
+  "spec": 1,
+  "name": "Starborn (All UI)",
+  "previewText": "Starborn is a playful handwritten-style font applied to all Discord text.",
+  "main": {
+    "*": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ABCGintoNord-Regular": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "NotoSans-Medium": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "NotoSans-Semibold": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "NotoSans-Bold": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf",
+    "ggmono-Normal": "https://cdn.jsdelivr.net/gh/JAYCEEWASLOST/Theme-Fonts@main/Starborn.ttf"
+  }
+}
